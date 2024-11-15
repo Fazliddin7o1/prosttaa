@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+    body {
+        font-family: Verdana, Geneva, Tahoma,sans-serif;
+        background-color: aquamarine;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+    }
+    .BOXX {
+        display: flex;
+        background-color: white;
+        padding: 40px;
+        border-radius: 15px;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .card {
+        text-align: center;
+        padding: 20px;
+    }
+
+    .card img{
+        width:100px;
+        height:auto;
+    }
+
+.darkgrey{
+    color:darkgray;
+}
+
+.dark{
+    color:darkgray;
+    font-size:xx-large;
+  
+    text-decoration: underline;
+    
+}
+
+
+.grey{
+    color:darkgray;
+    font-size:xx-large;
+   
+}
+
+
+.beshyuz{
+    color:black;
+}
+
+.dollr{
+    color:rgb(219, 201, 41);
+    font-size:xx-large;  
+}
+.doll{
+    color:darkgrey;
+    font-size:xx-large; 
+}
+
+.TEAM{
+    color:rgb(217, 228, 61);
+}
+.TEA{
+    color: rgb(91, 54, 126);
+}
+
+.dol{
+    color:rgb(91, 54, 126);
+    font-size:xx-large; 
+}
+
+.card{
+    text-align: center;
+    padding:20px;
+    margin: 0 20px;
+}
